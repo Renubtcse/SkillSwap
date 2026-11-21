@@ -46,3 +46,13 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+# Firebase local files
+.firebase/
+
+# Environment and secret files
+.env
+.env.*
+!*.example
+
+# Firebase service account keys
+*service-account*.json
