@@ -16,7 +16,15 @@ The idea is simple: if you know something, you can teach it to another student a
 - **Credit System:** Earn credits by teaching and use them to learn from others.
 - **Session Confirmation:** Both students need to confirm that a session is completed before credits are transferred.
 - **Notifications:** Stay updated about learning requests and session activities.
+## App Screenshots
 
+### Home Screen
+
+![SkillSwap Home Screen](screenshots/home.png)
+
+### Explore Skills
+
+![SkillSwap Explore Screen](screenshots/explore.png)
 ## Tech Stack
 
 - Flutter & Dart
